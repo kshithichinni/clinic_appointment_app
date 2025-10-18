@@ -12,10 +12,7 @@ A full-stack web application for booking and managing clinic appointments with r
 * [Project Workflow](#project-workflow)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Screenshots](#screenshots)
-* [Contributing](#contributing)
-* [License](#license)
-* [References](#references)
+* [Authors](#authors)
 
 ---
 
@@ -129,11 +126,9 @@ JWT_SECRET=your_jwt_secret
 * Admin can view analytics and user stats
 
 ---
+## Authors
+- **Kshithija Yatham** – Project Lead / Developer 
+- **Munnangi Navyatha** – Team Member
+- **Aravapalli Madhava Narasimha Sai Kalyan** – Team Member
+- **Yatham Teja** – Team Member
 
-## Screenshots
-
-
-
-
-
----
